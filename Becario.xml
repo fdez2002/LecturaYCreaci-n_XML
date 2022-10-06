@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<becarios>
+  <becario>
+    <nombre>Adios</nombre>
+    <apellidos>Pepe</apellidos>
+    <sexo>M</sexo>
+    <edad>22</edad>
+    <numSuspensos>22</numSuspensos>
+    <resiFamiliar>Si</resiFamiliar>
+    <ingresosAnuales>1111.0</ingresosAnuales>
+  </becario>
+  <becario>
+    <nombre>Adios</nombre>
+    <apellidos>Pepe</apellidos>
+    <sexo>M</sexo>
+    <edad>22</edad>
+    <numSuspensos>22</numSuspensos>
+    <resiFamiliar>Si</resiFamiliar>
+    <ingresosAnuales>1111.0</ingresosAnuales>
+  </becario>
+</becarios>
